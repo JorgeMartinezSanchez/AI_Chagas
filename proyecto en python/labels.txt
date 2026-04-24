@@ -1,0 +1,2 @@
+0 Chagas
+1 No Chagas
